@@ -12,6 +12,8 @@ CREATE TABLE datos(
 	las_use text
 	);
 	
+--www.moleculax.com.ve - www.emiliogomez.com.ve
+
 CREATE OR REPLACE FUNCTION  emp() TRIGGER AS 
 $emp$
 		BEGIN

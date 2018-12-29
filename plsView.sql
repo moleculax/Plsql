@@ -1,3 +1,5 @@
+--www.moleculax.com.ve - www.emiliogomez.com.ve
+
 CREATE OR REPLACE FUNCTION ViewTa() RETURNS TRIGGER AS
 $vista$
 BEGIN

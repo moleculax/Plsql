@@ -1,3 +1,5 @@
+--www.moleculax.com.ve - www.emiliogomez.com.ve
+
 ---crea respaldo DB csv
 
 CREATE OR REPLACE FUNCTION salvar()
