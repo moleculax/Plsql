@@ -3,8 +3,7 @@
 Partimos de la motivación de poner a disposición de todo aquel interesado una serie de manuales para que estos puedan fortalecer sus desarrollo académico/profesional/personal en diferentes áreas. Esperamos contar con su contribución y participación para continuar creciendo.<p>
 
 
-#<h1> Eureka/Pdfhandbooks
+<h1> Eureka/Pdfhandbooks
 </h1>
-<br>
-Visitenos en:<i> http://www.pdfhandbooks.com.ve</i>
+
 
